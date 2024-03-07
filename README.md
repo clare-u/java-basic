@@ -9,7 +9,7 @@
 
 ### 목차
 
-1. 클래스와 데이터
+1. [클래스와 데이터](https://github.com/ucream-sh/java-basic/tree/master/01_Class)
 2. 기본형과 참조형
 3. 객체 지향 프로그래밍
 4. 생성자
