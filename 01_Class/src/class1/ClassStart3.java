@@ -16,8 +16,17 @@ public class ClassStart3 {
 		student2.age = 16;
 		student2.grade = 80;
 
+		System.out.println(student1);
+		System.out.println(student2);
+		
+//		class1.Student@7a81197d
+//		class1.Student@5ca881b5
+		
 		System.out.println("이름: " + student1.name + " 나이: " + student1.age + " 성적: " + student1.grade);
 		// 스튜던트1번의 이름, 나이, 성적에 접근해서 출력
 		System.out.println("이름: " + student2.name + " 나이: " + student2.age + " 성적: " + student2.grade);
+		
+//		이름: 학생1 나이: 15 성적: 20
+//		이름: 학생2 나이: 16 성적: 80
 	}
 }
