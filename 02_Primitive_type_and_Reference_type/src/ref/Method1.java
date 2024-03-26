@@ -6,7 +6,7 @@ public class Method1 {
 
 		Student student1 = new Student();
 		// 참조형 객체: 메서드를 호출 시 참조값을 전달
-		// -> 메서드 내부에서는 전달된 참조값을 통해 객체의 값을 변경하거나, 값을 사용 가능하다ㅏ.
+		// -> 메서드 내부에서는 전달된 참조값을 통해 객체의 값을 변경하거나, 값을 사용 가능하다.
 		initStudent(student1, "학생1", 15, 90);
 
 		Student student2 = new Student();
