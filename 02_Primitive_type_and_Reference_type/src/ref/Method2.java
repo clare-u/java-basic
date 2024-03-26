@@ -5,9 +5,9 @@ public class Method2 {
 		// Method1 코드 리팩토링
 
 		Student student1 = createStudent("학생1", 15, 90);
+		// student1의 참조값 대입
 		Student student2 = createStudent("학생2", 16, 80);
-
-		//
+		// student2의 참조값 대입
 
 		printStudent(student1);
 		printStudent(student2);
