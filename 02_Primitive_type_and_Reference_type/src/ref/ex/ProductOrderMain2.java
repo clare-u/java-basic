@@ -1,6 +1,6 @@
 package ref.ex;
 
-public class ProductOrderMain {
+public class ProductOrderMain2 {
 	public static void main(String[] args) {
 		// 여러 상품의 주문 정보를 담는 배열 생성
 		ProductOrder[] orders = new ProductOrder[3];
