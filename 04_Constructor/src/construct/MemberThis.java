@@ -5,6 +5,7 @@ public class MemberThis {
 	String nameField;
 
 	void initMember(String nameParameter) {
-		nameField = nameParameter; // 이름이 다르면 this가 생략되었다고 보면 된다
+		this.nameField = nameParameter;
+		// 코드 안에서 멤버 변수에 접근 시 무조건 this를 적는 코딩 스타일도 있다
 	}
 }
