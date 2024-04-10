@@ -13,7 +13,7 @@
 2. [기본형과 참조형](https://github.com/ucream-sh/java-basic/tree/master/02_Primitive_type_and_Reference_type)
 3. [객체 지향 프로그래밍](https://github.com/clare-u/java-basic/tree/master/03_Object-Oriented-Programming)
 4. [생성자](https://github.com/clare-u/java-basic/tree/master/04_Constructor)
-5. 패키지
+5. [패키지](https://github.com/clare-u/java-basic/tree/master/05_Package)
 6. 접근 제어자
 7. 자바 메모리 구조와 static
 8. final
