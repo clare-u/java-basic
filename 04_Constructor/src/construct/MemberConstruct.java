@@ -20,4 +20,12 @@ public class MemberConstruct {
 		this.age = age;
 		this.grade = grade;
 	}
+
+	// 생성자 추가 (오버로딩)
+	MemberConstruct(String name, int age) {
+		// 이름과 나이만 매개변수로 받는 생성자
+		this.name = name;
+		this.age = age;
+		this.grade = 50; // 점수를 매개변수로 받지 않는 대신 50점으로 설정
+	}
 }
