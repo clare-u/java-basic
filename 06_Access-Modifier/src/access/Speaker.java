@@ -1,7 +1,8 @@
 package access;
 
 public class Speaker {
-	int volume;
+	private int volume; // 외부에서 필드 값 접근을 막는다
+	// 해당 클래스 내부에서만 호출 가능
 
 	Speaker(int volume) {
 		this.volume = volume; // 생성 시 초기 음량 지정
