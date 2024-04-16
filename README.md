@@ -16,7 +16,7 @@
 5. [패키지](https://github.com/clare-u/java-basic/tree/master/05_Package)
 6. [접근 제어자](https://github.com/clare-u/java-basic/tree/master/06_Access-Modifier)
 7. [자바 메모리 구조와 static](https://github.com/clare-u/java-basic/tree/master/07_Static)
-8. final
+8. [final](https://github.com/clare-u/java-basic/tree/master/08_Final)
 9. 상속
 10. 다형성1
 11. 다형성2
