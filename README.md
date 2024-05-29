@@ -19,6 +19,6 @@
 8. [final](https://github.com/clare-u/java-basic/tree/master/08_Final)
 9. [상속](https://github.com/clare-u/java-basic/tree/master/09_Extends)
 10. [다형성1](https://github.com/clare-u/java-basic/tree/master/10_Polymorphism1)
-11. 다형성2
+11. [다형성2](https://github.com/clare-u/java-basic/tree/master/11_Polymorphism2)
 12. 다형성과 설계
 13. 다음으로
